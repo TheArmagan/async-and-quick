@@ -1,0 +1,24 @@
+{
+  "name": "async-and-quick",
+  "version": "1.0.0",
+  "description": "List of utilities that speeds ups your project and lowers your cpu consumption.",
+  "main": "index.js",
+  "repository": "https://github.com/TheArmagan/async-and-quick",
+  "author": "Kıraç Armağan Önal",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chillout": "^5.0.0"
+  },
+  "keywords": [
+    "async",
+    "quick",
+    "fast",
+    "cpu-safe",
+    "map",
+    "foreach",
+    "find",
+    "sort",
+    "quicksort"
+  ]
+}
