@@ -1,6 +1,6 @@
 {
   "name": "async-and-quick",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "List of utilities that speeds ups your project and lowers your cpu consumption.",
   "main": "index.js",
   "repository": "https://github.com/TheArmagan/async-and-quick",
@@ -20,5 +20,9 @@
     "find",
     "sort",
     "quicksort"
-  ]
+  ],
+  "devDependencies": {
+    "recursive-readdir": "^2.2.2",
+    "typescript": "^4.8.4"
+  }
 }
